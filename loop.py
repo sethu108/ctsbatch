@@ -8,4 +8,4 @@ def loops(a):
 	print(i)
 	
 loops(10)
-	
+loops(5)	
