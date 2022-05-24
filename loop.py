@@ -4,5 +4,8 @@ def loops(a):
 	print(i)
 	i+=1
 
+  for i in range(a):
+	print(i)
+	
 loops(10)
 	
